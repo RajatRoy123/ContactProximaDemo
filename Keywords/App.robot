@@ -14,7 +14,7 @@ Kill Application
 #Enter Name and Phone number
 #    [Arguments]  ${ContactName}   ${ContactNumber}
 #    input text  //android.widget.EditText[@text='Name']     ${ContactName123}
-#    input text  //android.widget.EditText[@text='Phone']    ${ContactNumber124}
+#    input text  //android.widget.EditText[@text='Phone']    ${Proxima}
 
 Enter Name and Phone Number
     [Arguments]  ${ContactName}  ${ContactNumber}
